@@ -24,9 +24,9 @@ etc.
 ## Education
 * **Ph.D in Computer Science**, _Aug 2015 ~ Apr 2020 (expected)_ <br/>
   Wayne State University, MI, USA
-* **B.S. in Computer Science**, _Aug 2008 ~ Apr 2011_ <br/>
+* **M.S. in Computer Science**, _Aug 2008 ~ Apr 2011_ <br/>
   Tongji University, Shanghai, China
-* **M.S. in Computer Science**, _Aug 2004 ~ Jun 2008_ <br/>
+* **B.S. in Computer Science**, _Aug 2004 ~ Jun 2008_ <br/>
   Tongji University, Shanghai, China
   
 ## Publications
@@ -104,18 +104,21 @@ International Symposium on Computer Architecture (ISCA), Toronto, ON, Canada, Ju
   Huawei Technologies, Shanghai, China
 
 ## Professional Services
-### Reviewer
-* PLOS ONE 2019
-* IEEE LOCS 2018
-
-### Artifact Reviewer
-* ACSAC 2019
+### Artifact Committee
+* Annual Computer Security Applications Conference (**ACSAC**)： [2019](https://www.acsac.org/2019/)
 
 ### External Reviewer
-* ACSAC 2018
-* ACSAC 2017
+* ACM Conference on Computer and Communications Security (**CCS**): [2017](https://www.sigsac.org/ccs/CCS2017/index.html), [2018](https://www.sigsac.org/ccs/CCS2018/index.html), [2019](https://www.sigsac.org/ccs/CCS2019/)
+* Annual Computer Security Applications Conference (**ACSAC**): [2017](https://www.acsac.org/2017/), [2018](https://www.acsac.org/2018/), [2019](https://www.acsac.org/2019/)
+* European Workshop on Systems Security (**EuroSec**): [2018](http://www.sharcs-project.eu/eurosec-2018/), [2019]((https://www.threat-arrest.eu/html/eurosec-2019/))
+* EAI International Conference on Security and Privacy in Communication Networks (**SecureComm**): [2019](http://securecomm2019.eai-conferences.org/)
+
+### Reviewer
+* [PLOS ONE](https://journals.plos.org/plosone/): 2019
+* [IEEE Letters of the Computer Society (LOCS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8012254): 2018
 
 ## Awards
+* Faculty Competitive for Graduate Research Assistantships Award, Wayne State University, 2019
 * Student Travel Grant, IEEE S&P, 2019
 * Student Travel Grant, IEEE/IFIP DSN, 2018
 

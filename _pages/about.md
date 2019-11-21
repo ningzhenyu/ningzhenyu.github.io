@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate of the Department of Computer Science at Wayne State University 
-advised by Pro. [Fengwei Zhang](https://fengwei.me) since 2015. I am also a member
-of **COMP**uter **A**nd **S**ystem **S**ecurity ([COMPASS](http://compass.cs.wayne.edu)) Lab.
+I am a Ph.D. Candidate of the [Department of Computer Science](http://engineering.wayne.edu/cs/) 
+at [Wayne State University](https://wayne.edu/) advised by Prof. [Fengwei Zhang](https://fengwei.me)
+since 2015. I am also a member of **COMP**uter **A**nd **S**ystem **S**ecurity
+([COMPASS](http://compass.cs.wayne.edu)) Lab.
 
 Before starting my Ph.D., I have 4 years of experience in industry. I completed my
 Master's degree and Bachelor's degree at [Tongji University](https://www.tongji.edu.cn/) 

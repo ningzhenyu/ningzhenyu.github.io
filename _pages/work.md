@@ -15,5 +15,5 @@ author_profile: true
   Bolome Electronic Commerce, Shanghai, China
 * **Senior Software Engineer** <br/> _Sep 2012 ~ Apr 2015_ <br/>
   China UnionPay, Shanghai, China
-* **Assistant Software Engineer** <br/> Apr 2011 ~ Sep 2012 <br/>
+* **Assistant Software Engineer** <br/> _Apr 2011 ~ Sep 2012_ <br/>
   Huawei Technologies, Shanghai, China
