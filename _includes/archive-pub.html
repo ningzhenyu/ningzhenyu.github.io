@@ -1,0 +1,62 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if include.type == "grid" and teaser %}
+      <div class="archive__item-teaser">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="">
+      </div>
+    {% endif %}
+
+    <h3 class="archive__item-title-nounderline" itemprop="headline">
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %}
+        {% if post.venueshort %}[{{ post.venueshort }}]{% endif %}&nbsp;<a href="{{ base_path }}{{ post.paperurl }}" >{{ title }}</a>
+      {% endif %}
+    </h3>
+    
+    {% if post.read_time %}
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+    {% endif %}
+
+    <p>
+	<i>{{ post.authors }}</i> 
+	<br/>
+    <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}. 
+    {% if post.ifactor %}
+        (Impact Factor: <i>{{ post.ifactor }}</i>)
+    {% elsif post.accept_rate %}
+        (Acceptance rate:<i>{{ post.accept_rate }}</i>)
+    {% endif %}
+    {% if post.slides %}<a href="{{ base_path }}{{ post.slides }}">[Slides]</a>{% endif %}
+    {% if post.demos %}
+        {% assign demos_array = post.demos | split: "," %}
+        {% assign demos_array_size = demos_array.size | minus: 1 %}
+        {% for idx in (0..demos_array_size) %}
+            <a href={{ demos_array[idx] }}>[Demo{{ idx | plus: 1}}]</a>
+        {% endfor %}
+    {% endif %}
+    {% if post.source %}<a href="{{ post.source }}">[Source Code]</a>{% endif %}
+	</p>
+
+  </article>
+</div>
