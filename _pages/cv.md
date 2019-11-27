@@ -86,7 +86,9 @@ International Symposium on Computer Architecture (ISCA), Toronto, ON, Canada, Ju
   In the IEEE Southeastern Michigan 2016 Spring Conference, Livonia, MI, April, 2016.
   
 ## Teaching Experience
-* CSC 4111 Laboratory for Software Engineering <br/>
+* **Insturctor**, CSC 4111 Laboratory for Software Engineering <br/>
+  Department of Computer Science, Wayne State University, Fall, 2017.
+* **Teaching Assistant**, CSC 4110 Software Engineering <br/>
   Department of Computer Science, Wayne State University, Fall, 2017.
 
 ## Employment History
