@@ -5,11 +5,9 @@ permalink: /work/
 author_profile: true
 ---
 
-* **Graduate Research Assistant** <br/> _Jan 2018 ~ present_ <br/>
-  Wayne State University, MI, USA
-* **Graduate Teaching Assistant** <br/> _Aug 2017 ~ Dec 2017_ <br/>
-  Wayne State University, MI, USA
-* **Graduate Research Assistant** <br/> _Aug 2015 ~ Jul 2017_ <br/>
+* **Research Assistant Professor** <br/> _Jun 2020 ~ present_ <br/>
+  Southern University of Science and Technology, Shenzhen, China
+* **Graduate Research or Teaching Assistant** <br/> _Aug 2015 ~ May 2020_ <br/>
   Wayne State University, MI, USA
 * **Senior Software Engineer** <br/> _May 2015 ~ Jul 2015_ <br/>
   Bolome Electronic Commerce, Shanghai, China

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhenyu Ning / Ph.D. Candidate"
+title                    : "Zhenyu Ning / Research Assistant Professor"
 title_separator          : "-"
 name                     : &name "Zhenyu"
 description              : &description "personal description"
@@ -79,12 +79,12 @@ analytics:
 author:
   name             : "Zhenyu Ning"
   avatar           : "zning.jpg"
-  bio              : "<a href=\"http://compass.cs.wayne.edu\" target=\"_blank\">COMPASS Lab</a> <br/> Wayne State University"
+  bio              : "<a href=\"http://faculty.sustech.edu.cn/zhangfw/en/\" target=\"_blank\">COMPASS Lab</a> <br/> Southern University of Science and Technology"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=tA1o6r8AAAAJ"
-  email            : zhenyu.ning (at) wayne.edu
+  email            : ningzy2019 (at) mail.sustech.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -218,7 +218,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Detroit # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

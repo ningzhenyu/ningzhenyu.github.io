@@ -8,16 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate of the [Department of Computer Science](http://engineering.wayne.edu/cs/) 
-at [Wayne State University](https://wayne.edu/) advised by Prof. [Fengwei Zhang](https://fengwei.me)
-since 2015. I am also a member of **COMP**uter **A**nd **S**ystem **S**ecurity
-([COMPASS](http://compass.cs.wayne.edu)) Lab.
+I am a Research Assistant Professor of the [Department of Computer Science and Engineering](http://cse.sustech.edu.cn/) at [Southern University of Science and Technology](https://www.sustech.edu.cn/), and I am a member of **COMP**uter **A**nd **S**ystem **S**ecurity ([COMPASS](http://faculty.sustech.edu.cn/zhangfw/en/)) Lab.
+My primary research interests are in different areas of security and privacy, including system security, mobile security, IoT security, transportation security, trusted execution environment, hardware-assisted security.
 
-Before starting my Ph.D., I have 4 years of experience in industry. I completed my
-Master's degree and Bachelor's degree at [Tongji University](https://www.tongji.edu.cn/) 
+I earned my Ph.D. degree from Department of Computer Science at [Wayne State University](https://wayne.edu) in 2020. Before starting my Ph.D., I have 4 years of experience in industry. I completed my Master's degree and Bachelor's degree at [Tongji University](https://www.tongji.edu.cn/) 
 in 2011 and 2008, repectively.
-
-I am interested in different areas of security and privacy, including system security, 
-mobile security, IoT security, transportation security, trusted execution environment, 
-hardware-assisted security, etc.
 
