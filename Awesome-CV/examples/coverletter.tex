@@ -1,0 +1,152 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template for Cover Letter
+%
+% This template has been downloaded from:
+% https://github.com/posquit0/Awesome-CV
+%
+% Authors:
+% Claud D. Park <posquit0.bj@gmail.com>
+% Lars Richter <mail@ayeks.de>
+%
+% Template license:
+% CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+%
+
+
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letterpaper' for US letter
+\documentclass[11pt, a4paper]{awesome-cv}
+
+% Configure page margins with geometry
+\geometry{left=2.5cm, top=.8cm, right=2.5cm, bottom=1.8cm, footskip=.5cm}
+
+% Specify the location of the included fonts
+\fontdir[fonts/]
+
+% Color for highlights
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+%                 awesome-nephritis, awesome-concrete, awesome-darknight
+\colorlet{awesome}{awesome-red}
+% Uncomment if you would like to specify your own color
+% \definecolor{awesome}{HTML}{CA63A8}
+
+% Colors for text
+% Uncomment if you would like to specify your own color
+% \definecolor{darktext}{HTML}{414141}
+% \definecolor{text}{HTML}{333333}
+% \definecolor{graytext}{HTML}{5D5D5D}
+% \definecolor{lighttext}{HTML}{999999}
+
+% Set false if you don't want to highlight section with awesome color
+\setbool{acvSectionColorHighlight}{false}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%-------------------------------------------------------------------------------
+% Available options: circle|rectangle,edge/noedge,left/right
+%\photo[circle,noedge,left]{./examples/profile}
+\name{}{Zhenyu Ning}
+\position{Ph.D. Candidate}
+\address{Maccabees Building, Room 2210, 5057 Woodward Avenue, Detroit, Michigan 48202}
+
+\mobile{(+1) 313-505-7207}
+\email{zhenyu.ning@wayne.edu}
+%\homepage{www.posquit0.com}
+%\github{posquit0}
+%\linkedin{posquit0}
+% \gitlab{gitlab-id}
+% \stackoverflow{SO-id}{SO-name}
+% \twitter{@twit}
+% \skype{skype-id}
+% \reddit{reddit-id}
+% \medium{madium-id}
+% \googlescholar{googlescholar-id}{name-to-display}
+%% \firstname and \lastname will be used
+% \googlescholar{googlescholar-id}{}
+% \extrainfo{extra informations}
+
+%\quote{``Be the change that you want to see in the world."}
+
+
+%-------------------------------------------------------------------------------
+%	LETTER INFORMATION
+%	All of the below lines must be filled out
+%-------------------------------------------------------------------------------
+% The company being applied to
+\recipient
+  {Student Travel Grant Committee}
+  {The 40th IEEE Symposium on Security and Privacy\\San Francisco, CA}
+% The date on the letter, default is the date of compilation
+\letterdate{\today}
+% The title of the letter
+\lettertitle{Student Travel Grant}
+% How the letter is opened
+\letteropening{Dear Committee Members,}
+% How the letter is closed
+\letterclosing{Sincerely,}
+% Any enclosures with the letter
+\letterenclosure[Attached]{Résumé}
+
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+% Print the header with above personal informations
+% Give optional argument to change alignment(C: center, L: left, R: right)
+\makecvheader[R]
+
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+% Leave any of these blank if they are not needed
+\makecvfooter
+  {\today}
+  {Zhenyu Ning~~~·~~~Cover Letter}
+  {}
+
+% Print the title with above letter informations
+\makelettertitle
+
+%-------------------------------------------------------------------------------
+%	LETTER CONTENT
+%-------------------------------------------------------------------------------
+\begin{cvletter}
+
+I am a 4th year Ph.D. student working on Android security and hardware-assisted
+system security. My current research focuses on the hardware-assisted system security, embedded
+systems, trusted execution environments, mobile system security and malware analysis. We aim to
+leverage existing hardware features to secure the computation and communication in mobile systems, IoT 
+devices, and vehicles. Attending IEEE Symposium on Security and Privacy will benefit me for many
+reasons.
+
+First, The IEEE Symposium on Security and Privacy is well known as the best of the best security 
+conference in the academic area, and it provides plenty of excellent works which may give me more 
+insights on the system security area. These insights would guide me to the advance directions during
+my research.
+
+Second, the papers presented in the symposium would definitely help me expand my vision and catch up 
+with the state-of-the-art technologies in the area. A better understanding of these papers would help
+me stand on the giant's shoulders and facilitate my further research.
+
+Third,  if I am able to attend the symposium, I might be able to present our paper and discuss the recent 
+research ideas with the excellent attendees. This will be a great help for both extending my current
+research and refining the early bird ideas.
+
+Last but not least, attending the symposium would also help me to establish collaboration with others to 
+generate more creative works. Working with the excellent attendees might help to improve my research
+style and obtain more knowledges on the other related research areas.
+
+\end{cvletter}
+
+
+%-------------------------------------------------------------------------------
+% Print the signature and enclosures with above letter informations
+\makeletterclosing
+
+\end{document}
