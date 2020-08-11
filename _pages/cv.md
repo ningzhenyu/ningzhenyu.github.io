@@ -14,7 +14,7 @@ redirect_from:
 <h1 align="center">Zhenyu Ning</h1>
 <p align="center">Research Assistant Professor <br/>
 Innovation Park, Building 10, Room 501, 1088 Xueyuan Ave, Nanshan District, Shenzhen, Guangdong, China 518055 <br/>
-(+86)13774219743 <b>|</b> ningzy2019 (at) mail.sustech.edu.cn | https://ningzhenyu.github.io </p>
+(+86)13774219743 <b>|</b> ningzy (at) sustech.edu.cn | http://cse.sustech.edu.cn/faculty/~ningzy/ </p>
 
 ## Research Interest
 My Research interests are in different areas of security and privacy, including system security, mobile security, IoT security, 
