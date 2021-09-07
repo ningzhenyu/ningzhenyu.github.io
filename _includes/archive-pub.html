@@ -43,6 +43,7 @@
     {% elsif post.accept_rate %}
         (Acceptance rate:<i>{{ post.accept_rate }}</i>)
     {% endif %}
+    {% if post.comments %} ({{ post.comments }}) {% endif %}
     {% if post.slides %}<a href="{{ base_path }}{{ post.slides }}">[Slides]</a>{% endif %}
     {% if post.demos %}
         {% assign demos_array = post.demos | split: "," %}
