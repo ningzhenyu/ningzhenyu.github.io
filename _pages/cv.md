@@ -13,8 +13,8 @@ redirect_from:
 
 <h1 align="center">Zhenyu Ning</h1>
 <p align="center">Research Assistant Professor <br/>
-Innovation Park, Building 10, Room 501, 1088 Xueyuan Ave, Nanshan District, Shenzhen, Guangdong, China 518055 <br/>
-(+86)13774219743 <b>|</b> ningzy (at) sustech.edu.cn | http://cse.sustech.edu.cn/faculty/~ningzy/ </p>
+Room 441A, South Tower, CoE Building, SUSTech, 1088 Xueyuan Ave, Nanshan District, Shenzhen, Guangdong, China 518055 <br/>
+(+86)13774219743 <b>|</b> ningzy (at) sustech.edu.cn | https://ningzhenyu.github.io/ </p>
 
 ## Research Interest
 My Research interests are in different areas of security and privacy, including system security, mobile security, IoT security, 
@@ -29,7 +29,33 @@ etc.
 * **B.S. in Computer Science**, _Aug 2004 ~ Jun 2008_ <br/>
   Tongji University, Shanghai, China
   
+## Employment History
+* **Research Assistant Professor** <br/>
+  _Jun 2020 ~ present_ <br/>
+  Southern University of Science and Technology, Shenzhen, Guangdong, China
+  
+* **Graduate Research or Teaching Assistant** <br/> 
+  _Aug 2015 ~ May 2020_ <br/>
+  Wayne State University, MI, USA
+  
+* **Senior Software Engineer** <br/>
+  _May 2015 ~ Jul 2015_ <br/>
+  Bolome Electronic Commerce, Shanghai, China
+  
+* **Senior Software Engineer** <br/>
+  _Sep 2012 ~ Apr 2015_ <br/>
+  China UnionPay, Shanghai, China
+  
+* **Assistant Software Engineer** <br/>
+  _Apr 2011 ~ Sep 2012_ <br/>
+  Huawei Technologies, Shanghai, China
+
 ## Publications
+\* indicates these authors contribute equally to the paper.
+* **[ESORICS'20]** HART: Hardware‑assisted Kernel Module Tracing on Arm <br/>
+  Yunlan Du<sup>\*</sup>, **Zhenyu Ning**<sup>\*</sup>, Jun Xu, Zilong Wang, Yueh-Hsun Lin, Fengwei Zhang*, Xinyu Xing, and Bing Mao <br/>
+  _In Proceedings of the 25th European Symposium on Research in Computer Security, United Kingdom, September,_ 2020.
+  
 * **[DSN'20]** KShot: Live Kernel Patching with SMM and SGX <br/>
   Lei Zhou, Fengwei Zhang, Jinghui Liao, **Zhenyu Ning**, Jidong Xiao, Kevin Leach, Westley Weimer, and Guojun Wang <br/>
   _To Appear in the 50th Annual IEEE/IFIP International Conference on Dependable Systems and Networks, Valencia, Spain,_ 2020.
@@ -67,6 +93,15 @@ etc.
   _In Proceedings of the Hardware and Architectural Support for Security and Privacy, In conjunction with the 44th
 International Symposium on Computer Architecture (ISCA), Toronto, ON, Canada, June,_ 2017.
 
+## Research Grants
+* **A Trusted Execution Environment Based on RISC-V Architecture** <br/>
+  National Natural Science Foundation of China, No. 62102175 <br/>
+  _2022.01-2024.12, 240,000 RMB, Principal Investigator_
+
+* **Research on Secure EL2 of Arm Cloud Platforms** <br/>
+  Ant Group <br/>
+  _2021.03-2022.03, 520,000 RMB, Principal Investigator_
+
 ## Talks
 * SecLabel: Enhancing RISC-V Platform Security with Labelled Architecture <br/>
   **Zhenyu Ning**, Yinqian Zhang, and Fengwei Zhang <br/>
@@ -99,44 +134,24 @@ International Symposium on Computer Architecture (ISCA), Toronto, ON, Canada, Ju
 * **Teaching Assistant**, CSC 4110 Software Engineering <br/>
   Department of Computer Science, Wayne State University, Fall, 2017.
 
-## Employment History
-* **Research Assistant Professor** <br/>
-  _Jun 2020 ~ present_ <br/>
-  Southern University of Science and Technology, Shenzhen, China
-  
-* **Graduate Research or Teaching Assistant** <br/> 
-  _Aug 2015 ~ May 2020_ <br/>
-  Wayne State University, MI, USA
-  
-* **Senior Software Engineer** <br/>
-  _May 2015 ~ Jul 2015_ <br/>
-  Bolome Electronic Commerce, Shanghai, China
-  
-* **Senior Software Engineer** <br/>
-  _Sep 2012 ~ Apr 2015_ <br/>
-  China UnionPay, Shanghai, China
-  
-* **Assistant Software Engineer** <br/>
-  _Apr 2011 ~ Sep 2012_ <br/>
-  Huawei Technologies, Shanghai, China
-
 ## Professional Services
 ### Program Committee
-* ACM Cloud Computing Security Workshop (**CCSW**): [2020](https://ccsw.io/)
+* **CCSW**: ACM Cloud Computing Security Workshop, [2020](https://ccsw.io/)
 
 ### Artifact Committee
-* Annual Computer Security Applications Conference (**ACSAC**)： [2019](https://www.acsac.org/2019/)
+* **USENIX-Security**: USENIX Security Symposium, [2021](https://www.usenix.org/conference/usenixsecurity21)
+* **ACSAC**: Annual Computer Security Applications Conference, [2019](https://www.acsac.org/2019/), [2020](https://www.acsac.org/2020/)
 
 ### External Reviewer
-* ACM Conference on Computer and Communications Security (**CCS**): [2017](https://www.sigsac.org/ccs/CCS2017/index.html), [2018](https://www.sigsac.org/ccs/CCS2018/index.html), [2019](https://www.sigsac.org/ccs/CCS2019/)
-* Annual Computer Security Applications Conference (**ACSAC**): [2017](https://www.acsac.org/2017/), [2018](https://www.acsac.org/2018/), [2019](https://www.acsac.org/2019/)
-* European Workshop on Systems Security (**EuroSec**): [2018](http://www.sharcs-project.eu/eurosec-2018/), [2019]((https://www.threat-arrest.eu/html/eurosec-2019/))
-* EAI International Conference on Security and Privacy in Communication Networks (**SecureComm**): [2019](http://securecomm2019.eai-conferences.org/)
+* **CCS**: ACM Conference on Computer and Communications Security, [2017](https://www.sigsac.org/ccs/CCS2017/index.html), [2018](https://www.sigsac.org/ccs/CCS2018/index.html), [2019](https://www.sigsac.org/ccs/CCS2019/)
+* **ACSAC**: Annual Computer Security Applications Conference, [2017](https://www.acsac.org/2017/), [2018](https://www.acsac.org/2018/), [2019](https://www.acsac.org/2019/)
+* **EuroSec**: European Workshop on Systems Security, [2018](http://www.sharcs-project.eu/eurosec-2018/), [2019](https://www.threat-arrest.eu/html/eurosec-2019/)
 
 ### Reviewer
-* [Computers & Security](https://journals.elsevier.com/computers-and-security/): 2020
-* [PLOS ONE](https://journals.plos.org/plosone/): 2019
-* [IEEE Letters of the Computer Society (LOCS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8012254): 2018
+* **[TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)**: IEEE Transactions on Dependable and Secure Computing, 2021
+* **[Computers & Security](https://journals.elsevier.com/computers-and-security/)**: Elsevier Computer & Security, 2020, 2021
+* **[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)**: IEEE Transactions on Mobile Computing, 2020
+* **[LOCS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8012254)**: IEEE Letters of the Computer Society, 2018
 
 ## Awards
 * Faculty Competitive for Graduate Research Assistantships Award, Wayne State University, 2019
