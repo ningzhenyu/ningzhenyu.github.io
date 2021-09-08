@@ -103,15 +103,15 @@ International Symposium on Computer Architecture (ISCA), Toronto, ON, Canada, Ju
   _2021.03-2022.03, 520,000 RMB, Principal Investigator_
 
 ## Talks
-* SecLabel: Enhancing RISC-V Platform Security with Labelled Architecture <br/>
+* **[CRVF’19]** SecLabel: Enhancing RISC-V Platform Security with Labelled Architecture <br/>
   **Zhenyu Ning**, Yinqian Zhang, and Fengwei Zhang <br/>
-  _In China RISC-V Forum (CRVF), Shenzhen, China, November,_ 2019.
+  _In China RISC-V Forum, Shenzhen, China, November,_ 2019.
   
-* Nailgun: Breaking the Privilege Isolation on ARM <br/>
+* **[MOSEC’19]** Nailgun: Breaking the Privilege Isolation on ARM <br/>
   **Zhenyu Ning** and Fengwei Zhang <br/>
-  _In Mobile Security Conference (MOSEC), Shanghai, China, May,_ 2019.
+  _In Mobile Security Conference, Shanghai, China, May,_ 2019.
   
-* Transparent Malware Debugging on x86 and ARM <br/>
+* **[DEFCON China’18]** Transparent Malware Debugging on x86 and ARM <br/>
   **Zhenyu Ning** and Fengwei Zhang <br/>
   _In DEFCON China, Beijing, China, May,_ 2018.
   
