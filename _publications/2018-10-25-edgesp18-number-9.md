@@ -1,7 +1,7 @@
 ---
 title: "Preliminary Study of Trusted Execution Environments on Heterogeneous Edge Platforms"
 collection: publications
-permalink: /publication/2018-10-25-edgesp18-number-6
+permalink: /publication/2018-10-25-edgesp18-number-9
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-10-25
 venue: 'In Proceedings of the 1st ACM/IEEE Workshop on Security and Privacy in Edge Computing, in conjunction with the 3rd ACM/IEEE Symposium on Edge Computing, Bellevue, Washington'

@@ -1,7 +1,7 @@
 ---
 title: "HART: Hardware-assisted Kernel Module Tracing on Arm"
 collection: publications
-permalink: /publication/2020-09-15-esorics20-number-1
+permalink: /publication/2020-09-15-esorics20-number-3
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-09-15
 venue: 'In Proceedings of the 25th European Symposium on Research in Computer Security, Guildford, United Kingdom'

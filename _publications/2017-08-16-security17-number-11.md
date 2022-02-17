@@ -1,7 +1,7 @@
 ---
 title: "Ninja: Towards Transparent Tracing and Debugging on ARM"
 collection: publications
-permalink: /publication/2017-08-16-security17-number-8
+permalink: /publication/2017-08-16-security17-number-11
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2017-08-16
 venue: 'In Proceedings of the 26th USENIX Security Symposium, Vancouver, BC, Canada'

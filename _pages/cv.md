@@ -52,15 +52,23 @@ etc.
 
 ## Publications
 \* indicates these authors contribute equally to the paper.
-* **[ESORICS'20]** HART: Hardware‑assisted Kernel Module Tracing on Arm <br/>
-  Yunlan Du<sup>\*</sup>, **Zhenyu Ning**<sup>\*</sup>, Jun Xu, Zilong Wang, Yueh-Hsun Lin, Fengwei Zhang*, Xinyu Xing, and Bing Mao <br/>
+* **[TDSC’22]** Revisiting ARM Debugging Features: Nailgun and Its Defense <br/>
+  **Zhenyu Ning**, Chenxu Wang, Yinhua Chen, and Fengwei Zhang <br/>
+  _To Appear in IEEE Transactions on Dependable and Secure Computing, _ 2022.
+
+* **[HASP’21]** A Novel Memory Management for RISC-V Enclaves <br/>
+  Haonan Li<sup>\*</sup>, **Weijie Huang**<sup>\*</sup>, Mingde Ren, Hongyi Lu, **Zhenyu Ning**, and Fengwei Zhang <br/>
+  _In Proceedings of the Hardware and Architectural Support for Security and Privacy (HASP'21), in conjunction with the 54th IEEE/ACM International Symposium on Microarchitecture (MICRO'21), October, _ 2021.
+
+* **[ESORICS’20]** HART: Hardware‑assisted Kernel Module Tracing on Arm <br/>
+  Yunlan Du<sup>\*</sup>, **Zhenyu Ning**<sup>\*</sup>, Jun Xu, Zilong Wang, Yueh-Hsun Lin, Fengwei Zhang, Xinyu Xing, and Bing Mao <br/>
   _In Proceedings of the 25th European Symposium on Research in Computer Security, United Kingdom, September,_ 2020.
   
-* **[DSN'20]** KShot: Live Kernel Patching with SMM and SGX <br/>
+* **[DSN’20]** KShot: Live Kernel Patching with SMM and SGX <br/>
   Lei Zhou, Fengwei Zhang, Jinghui Liao, **Zhenyu Ning**, Jidong Xiao, Kevin Leach, Westley Weimer, and Guojun Wang <br/>
   _To Appear in the 50th Annual IEEE/IFIP International Conference on Dependable Systems and Networks, Valencia, Spain,_ 2020.
 
-* **[JCDR'19]** A Study of Using TEE on Edge Computing (基于边缘计算的可信执行环境研究) <br/>
+* **[JCDR’19]** A Study of Using TEE on Edge Computing (基于边缘计算的可信执行环境研究) <br/>
   **Zhenyu Ning**, Fengwei Zhang, and Weisong Shi <br/>
   _In Journal of Computer Research and Development (计算机研究与发展), Vol.56, No.7, pp.1441-1453,_ 2019.
 
@@ -96,7 +104,11 @@ International Symposium on Computer Architecture (ISCA), Toronto, ON, Canada, Ju
 ## Research Grants
 * **A Trusted Execution Environment Based on RISC-V Architecture** <br/>
   National Natural Science Foundation of China, No. 62102175 <br/>
-  _2022.01-2024.12, 240,000 RMB, Principal Investigator_
+  _2022.01-2024.12, 300,000 RMB, Principal Investigator_
+
+* **Armory: Research on Hardware‑assisted Arm Enclave** <br/>
+  Ant Group <br/>
+  _2021.10-2022.10, 600,000 RMB, Principal Investigator_
 
 * **Research on Secure EL2 of Arm Cloud Platforms** <br/>
   Ant Group <br/>
