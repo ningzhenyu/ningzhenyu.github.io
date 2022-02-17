@@ -54,11 +54,11 @@ etc.
 \* indicates these authors contribute equally to the paper.
 * **[TDSC’22]** Revisiting ARM Debugging Features: Nailgun and Its Defense <br/>
   **Zhenyu Ning**, Chenxu Wang, Yinhua Chen, and Fengwei Zhang <br/>
-  _To Appear in IEEE Transactions on Dependable and Secure Computing, _ 2022.
+  _To Appear in IEEE Transactions on Dependable and Secure Computing,_ 2022.
 
 * **[HASP’21]** A Novel Memory Management for RISC-V Enclaves <br/>
   Haonan Li<sup>\*</sup>, **Weijie Huang**<sup>\*</sup>, Mingde Ren, Hongyi Lu, **Zhenyu Ning**, and Fengwei Zhang <br/>
-  _In Proceedings of the Hardware and Architectural Support for Security and Privacy (HASP'21), in conjunction with the 54th IEEE/ACM International Symposium on Microarchitecture (MICRO'21), October, _ 2021.
+  _In Proceedings of the 10th Hardware and Architectural Support for Security and Privacy, in conjunction with the 54th IEEE/ACM International Symposium on Microarchitecture (MICRO'21), October,_ 2021.
 
 * **[ESORICS’20]** HART: Hardware‑assisted Kernel Module Tracing on Arm <br/>
   Yunlan Du<sup>\*</sup>, **Zhenyu Ning**<sup>\*</sup>, Jun Xu, Zilong Wang, Yueh-Hsun Lin, Fengwei Zhang, Xinyu Xing, and Bing Mao <br/>
