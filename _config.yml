@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhenyu Ning / Research Assistant Professor"
+title                    : "Zhenyu Ning / Associate Professor"
 title_separator          : "-"
 name                     : &name "Zhenyu"
 description              : &description "personal description"
@@ -79,12 +79,12 @@ analytics:
 author:
   name             : "Zhenyu Ning"
   avatar           : "zning.jpg"
-  bio              : "<a href=\"http://faculty.sustech.edu.cn/zhangfw/en/\" target=\"_blank\">COMPASS Lab</a> <br/> Southern University of Science and Technology"
+  bio              : "Hunan University"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=tA1o6r8AAAAJ"
-  email            : ningzy (at) sustech.edu.cn
+  email            : zning (at) hnu.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
